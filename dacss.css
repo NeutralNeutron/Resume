@@ -1,0 +1,36 @@
+.forfooter {
+	 color: purple;
+	 font-family: sans-serif;
+	}
+body {
+  background: url(BackG.jpg);
+  background-repeat: no-repeat;
+  background-size:1500px 900px;
+}
+.button {
+  font: bold 20px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+img {
+  border: 5px solid green;
+}
+h2{
+	color:red;
+}
+	h1 {
+		font-family: "Times New Roman", Times, serif;
+	}
+	.introduction
+	{
+		font-size: 20px;
+		color : brown;
+		font-family: "Lucida Console", "Courier New", monospace;
+		background-color : white;
+	} 
